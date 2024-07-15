@@ -54,3 +54,4 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file `LICENSE` untuk informa
 Untuk pertanyaan lebih lanjut atau dukungan, silakan hubungi:
 - Nama: [NXRts]
 - Email: [arrofisamsung168@gmail.com]
+- Web: [https://bdda3ef7-9a38-4d4d-b2e6-06a8bd7aa18e-00-rhqkvc7utxl5.janeway.replit.dev/]
