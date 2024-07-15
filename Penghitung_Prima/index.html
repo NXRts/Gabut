@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pencarian Bilangan Prima</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pencarian Bilangan Prima</h1>
+        <div class="input-group">
+            <label for="startRange">Dari:</label>
+            <input type="number" id="startRange" placeholder="0">
+        </div>
+        <div class="input-group">
+            <label for="endRange">Sampai:</label>
+            <input type="number" id="endRange" placeholder="5000000">
+        </div>
+        <button id="startButton">Mulai Pencarian</button>
+        <p id="resultCount"></p>
+        <p id="timeTaken"></p>
+        <div id="primeNumbers"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
