@@ -18,7 +18,7 @@ Pastikan Anda memiliki browser web yang terbaru dan mendukung JavaScript.
 
 1. **Unduh atau Klon Repositori ini**
     ```bash
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/NXRts/Gabut.git
     ```
 
 2. **Navigasi ke Folder Proyek**
@@ -52,5 +52,5 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file `LICENSE` untuk informa
 ## Kontak
 
 Untuk pertanyaan lebih lanjut atau dukungan, silakan hubungi:
-- Nama: [Nama Anda]
-- Email: [email@example.com]
+- Nama: [NXRts]
+- Email: [arrofisamsung168@gmail.com]
